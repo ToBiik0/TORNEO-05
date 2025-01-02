@@ -1,0 +1,179 @@
+[16:45:35] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[16:45:35] [Server thread/INFO]: Loading properties
+[16:45:35] [Server thread/INFO]: Default game type: ADVENTURE
+[16:45:35] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[16:45:35] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[16:45:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:45:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:45:35] [Server thread/INFO]: Debug logging is disabled
+[16:45:35] [Server thread/INFO]: Data value allowed items: 
+[16:45:35] [Server thread/INFO]: Generating keypair
+[16:45:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:45:35] [Server thread/INFO]: Using epoll channel type
+[16:45:35] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[16:45:35] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.6.0-bCUSTOM
+[16:45:35] [Server thread/INFO]: [DeathBan] Loading DeathBan v1.1.1
+[16:45:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:45:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:45:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:45:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:45:35] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:45:35] [Server thread/INFO]: Preparing level "torneo"
+[16:45:35] [Server thread/INFO]: -------- World Settings For [torneo] --------
+[16:45:35] [Server thread/INFO]: Mob Spawn Range: 4
+[16:45:35] [Server thread/INFO]: Anti X-Ray: true
+[16:45:35] [Server thread/INFO]: 	Engine Mode: 1
+[16:45:35] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:45:35] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:45:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:45:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:45:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:45:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:45:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:45:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:45:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:45:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:45:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:45:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:45:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:45:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:45:35] [Server thread/INFO]: Random Lighting Updates: false
+[16:45:35] [Server thread/INFO]: Structure Info Saving: true
+[16:45:35] [Server thread/INFO]: Sending up to 10 chunks per packet
+[16:45:35] [Server thread/INFO]: Max Entity Collisions: 8
+[16:45:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:45:35] [Server thread/INFO]: Max TNT Explosions: 100
+[16:45:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:45:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:45:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:45:35] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:45:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:45:35] [Server thread/INFO]: View Distance: 10
+[16:45:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:45:35] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[16:45:35] [Server thread/INFO]: Clear tick list: false
+[16:45:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:45:35] [Server thread/INFO]: -------- World Settings For [torneo] --------
+[16:45:35] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[16:45:35] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[16:45:35] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[16:45:35] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[16:45:35] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[16:45:35] [Server thread/INFO]: Water over lava flow speed: 5
+[16:45:35] [Server thread/INFO]: Fix TNT cannons: false
+[16:45:35] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[16:45:35] [Server thread/INFO]: Keep spawn chunk loaded: true
+[16:45:35] [Server thread/INFO]: World async lighting: false
+[16:45:35] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[16:45:35] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[16:45:36] [Server thread/INFO]: -------- World Settings For [torneo_the_end] --------
+[16:45:36] [Server thread/INFO]: Mob Spawn Range: 4
+[16:45:36] [Server thread/INFO]: Anti X-Ray: true
+[16:45:36] [Server thread/INFO]: 	Engine Mode: 1
+[16:45:36] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:45:36] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:45:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:45:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:45:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:45:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:45:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:45:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:45:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:45:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:45:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:45:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:45:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:45:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:45:36] [Server thread/INFO]: Random Lighting Updates: false
+[16:45:36] [Server thread/INFO]: Structure Info Saving: true
+[16:45:36] [Server thread/INFO]: Sending up to 10 chunks per packet
+[16:45:36] [Server thread/INFO]: Max Entity Collisions: 8
+[16:45:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:45:36] [Server thread/INFO]: Max TNT Explosions: 100
+[16:45:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:45:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:45:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:45:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:45:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:45:36] [Server thread/INFO]: View Distance: 10
+[16:45:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:45:36] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[16:45:36] [Server thread/INFO]: Clear tick list: false
+[16:45:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:45:36] [Server thread/INFO]: -------- World Settings For [torneo_the_end] --------
+[16:45:36] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[16:45:36] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[16:45:36] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[16:45:36] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[16:45:36] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[16:45:36] [Server thread/INFO]: Water over lava flow speed: 5
+[16:45:36] [Server thread/INFO]: Fix TNT cannons: false
+[16:45:36] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[16:45:36] [Server thread/INFO]: Keep spawn chunk loaded: true
+[16:45:36] [Server thread/INFO]: World async lighting: false
+[16:45:36] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[16:45:36] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[16:45:36] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6306778091214816135)
+[16:45:36] [Server thread/INFO]: Preparing start region for level 1 (Seed: -6306778091214816135)
+[16:45:36] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-bCUSTOM
+[16:45:36] [Server thread/INFO]: [AuthMe] Created column 'regdate' and set the current timestamp, 1735836336850, to all 0 rows
+[16:45:36] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[16:45:36] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[16:45:37] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[16:45:37] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[16:45:37] [Server thread/INFO]: [DeathBan] Enabling DeathBan v1.1.1
+[16:45:37] [Server thread/ERROR]: Error occurred while enabling DeathBan v1.1.1 (Is it up to date?)
+java.sql.SQLException: query does not return ResultSet
+	at org.sqlite.Stmt.executeQuery(Stmt.java:124) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at sh.okx.deathban.database.Database.<init>(Database.java:85) ~[?:?]
+	at sh.okx.deathban.DeathBan.init(DeathBan.java:70) ~[?:?]
+	at sh.okx.deathban.DeathBan.onEnable(DeathBan.java:43) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:407) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:359) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:318) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:408) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:372) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:327) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:45:37] [Server thread/INFO]: [DeathBan] Disabling DeathBan v1.1.1
+[16:45:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:45:37] [Server thread/INFO]: Done (1.331s)! For help, type "help" or "?"
+[16:45:37] [Server thread/INFO]: Timings Reset
+[16:45:37] [Craft Scheduler Thread - 1/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[16:45:37] [Craft Scheduler Thread - 1/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[16:45:37] [Craft Scheduler Thread - 1/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[16:45:37] [Craft Scheduler Thread - 1/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[16:45:56] [Thread-6/INFO]: UUID of player ToBiik_ is 12a5f179-d6bc-32c8-aaf8-c4dce87d60c4
+[16:45:56] [Server thread/INFO]: ToBiik_[/127.135.168.66:50353] logged in with entity id 45 at ([torneo]28.406760751214765, 16.021144299329496, 10.288870500221758)
+[16:46:15] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[16:46:15] [Server thread/INFO]: [@: Set the time to 1000]
+[16:46:15] [Server thread/INFO]: [@: Changing to clear weather]
+[16:46:26] [Server thread/INFO]: ToBiik_ lost connection: §4Login timeout exceeded, you have been kicked from the server, please try again!
+[16:46:26] [Server thread/INFO]: ToBiik_ left the game.
+[16:46:26] [Server thread/WARN]: handleDisconnection() called twice
+[16:46:33] [Thread-7/INFO]: UUID of player ToBiik_ is 12a5f179-d6bc-32c8-aaf8-c4dce87d60c4
+[16:46:33] [Server thread/INFO]: ToBiik_[/127.135.168.66:50999] logged in with entity id 46 at ([torneo]28.579956862690185, 4.0, 10.229258745700736)
+[16:46:57] [Server thread/INFO]: [AuthMe] ToBiik_ registered 127.135.168.66
+[16:46:57] [Craft Scheduler Thread - 0/INFO]: [AuthMe] ToBiik_ logged in 127.135.168.66
+[16:47:07] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[16:47:07] [Server thread/INFO]: [@: Set the time to 1000]
+[16:47:07] [Server thread/INFO]: [@: Changing to clear weather]
+[16:47:58] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[16:47:58] [Server thread/INFO]: [@: Set the time to 1000]
+[16:47:58] [Server thread/INFO]: [@: Changing to clear weather]
+[16:48:49] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[16:48:49] [Server thread/INFO]: [@: Set the time to 1000]
+[16:48:49] [Server thread/INFO]: [@: Changing to clear weather]
+[16:49:24] [Thread-8/INFO]: UUID of player ToBiik_ is 12a5f179-d6bc-32c8-aaf8-c4dce87d60c4
+[16:49:24] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3b36d316[id=12a5f179-d6bc-32c8-aaf8-c4dce87d60c4,name=ToBiik_,properties={},legacy=false] (/127.135.168.66:36973): §4The same username is already playing on the server!
+[16:49:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b36d316[id=12a5f179-d6bc-32c8-aaf8-c4dce87d60c4,name=ToBiik_,properties={},legacy=false] (/127.135.168.66:36973) lost connection: §4The same username is already playing on the server!
+[16:49:29] [Thread-9/INFO]: UUID of player ToBiik_ is 12a5f179-d6bc-32c8-aaf8-c4dce87d60c4
+[16:49:30] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2b87f44e[id=12a5f179-d6bc-32c8-aaf8-c4dce87d60c4,name=ToBiik_,properties={},legacy=false] (/127.135.168.66:44055): §4The same username is already playing on the server!
+[16:49:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b87f44e[id=12a5f179-d6bc-32c8-aaf8-c4dce87d60c4,name=ToBiik_,properties={},legacy=false] (/127.135.168.66:44055) lost connection: §4The same username is already playing on the server!
+[16:49:40] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[16:49:40] [Server thread/INFO]: [@: Set the time to 1000]
+[16:49:40] [Server thread/INFO]: [@: Changing to clear weather]
